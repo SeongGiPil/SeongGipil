@@ -8,8 +8,8 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/본인GitHub아이디)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeongGipil)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20416rlvf@gmail.com)
 
 </div>
 
@@ -67,7 +67,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ## 📂 Project Repository
 
 ### ⚾ SpoTalk
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/본인아이디/SpoTalk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/SpoTalk)
 
 > **React · Express · Oracle Database**
 
@@ -81,7 +81,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ---
 
 ### 🐶 UniPet
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/본인아이디/UniPet)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/UniPet)
 
 > **Spring Boot · JSP · MyBatis · MySQL**
 
