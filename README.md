@@ -8,16 +8,14 @@ React와 Flutter를 중심으로 웹과 모바일 서비스를 개발하며,
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlvf1234@naver.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeongGipil)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20416rlvf@gmail.com)
 
 </div>
 
 ---
 
 ## 🌿 About Me
-
-- 📱 Flutter 기반 소비 관리 앱 **땡그랑(Ddaenggeurang)** 팀 프로젝트 개발
 - ⚾ React 기반 야구 커뮤니티 SNS **SpoTalk** 개인 프로젝트 개발
 - 🎨 사용자 중심의 UI/UX 구현을 좋아합니다.
 - 🌱 새로운 기술을 배우고 프로젝트에 적용하는 것을 즐깁니다.
