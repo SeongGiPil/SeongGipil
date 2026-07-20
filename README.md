@@ -67,7 +67,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 
 ### ⚾ SpoTalk
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/SpoTalk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGiPil/ReactProject_2026)
 
 > **React · Express · Oracle Database**
 
