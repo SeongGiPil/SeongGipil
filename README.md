@@ -80,9 +80,19 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 
 ---
 
+
 ### 🐶 UniPet
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/UniPet)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Medo-skb/Unipet)
+
+> **Spring Boot · JSP · MyBatis · MySQL**
+
+반려동물 커뮤니티 플랫폼입니다.
+
+- 회원가입 및 로그인
+- 마이페이지
+- 반려동물 관리 기능
+- JSP 기반 화면 구현
 
 > **Spring Boot · JSP · MyBatis · MySQL**
 
