@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 꾸준히 성장하는 프론트엔드 개발자, 성기필입니다 👋
@@ -17,6 +16,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 
 ## 🌱 About Me
 
+- 🎓 부천대학교 컴퓨터소프트웨어과 졸업
 - 📱 React와 Flutter를 활용한 웹·모바일 프로젝트를 진행했습니다.
 - 🎨 사용자 입장에서 보기 편한 화면을 만드는 것을 좋아합니다.
 - 🤝 Git을 활용한 협업과 코드 리뷰를 경험했습니다.
@@ -26,7 +26,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -35,7 +35,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -44,7 +44,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Database**
+### Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,7 +52,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -66,6 +66,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ## 📂 Project Repository
 
 ### ⚾ SpoTalk
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/SpoTalk)
 
 > **React · Express · Oracle Database**
@@ -80,6 +81,7 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ---
 
 ### 🐶 UniPet
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeongGipil/UniPet)
 
 > **Spring Boot · JSP · MyBatis · MySQL**
@@ -98,4 +100,3 @@ React와 Flutter를 중심으로 웹과 모바일 프로젝트를 개발하고 �
 ### Thanks for visiting! 😊
 
 </div>
-```
